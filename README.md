@@ -12,4 +12,4 @@ To run:
 bun run index.ts
 ```
 Install DB
-´´´Go "https://www.maxmind.com/en/geolite2/"
+```Go "https://www.maxmind.com/en/geolite2/"
