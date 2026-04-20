@@ -11,5 +11,5 @@ To run:
 ```bash
 bun run index.ts
 ```
-#Install DB
-Go "https://www.maxmind.com/en/geolite2/"
+Install DB
+´´´Go "https://www.maxmind.com/en/geolite2/"
