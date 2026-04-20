@@ -1,0 +1,16 @@
+{
+  "name": "geolocation-api",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/maxmind": "^2.0.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "maxmind": "^5.0.6"
+  }
+}
